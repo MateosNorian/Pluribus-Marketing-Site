@@ -1,0 +1,8 @@
+@import "./variables";
+
+@media screen and (min-width: $screen-md) {
+  .go-to-docs-section {
+    display: flex;
+    justify-content: center;
+  }
+}

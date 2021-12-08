@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAClC,AAAA,mBAAmB,CAAC;IAClB,OAAO,EAAE,IAAI;IACb,eAAe,EAAE,MAAM;GACxB",
+    "sources": [
+        "api.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "api.css"
+}
